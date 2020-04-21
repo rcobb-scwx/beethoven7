@@ -19,4 +19,4 @@
     * [`cbapi` model docs](https://cbapi.readthedocs.io/en/latest/response-api.html#models)
     * [`cbapi` model schemas](https://github.com/carbonblack/cbapi-python/tree/master/src/cbapi/response/models)
     * [`cbapi` model classes](https://github.com/carbonblack/cbapi-python/blob/master/src/cbapi/response/models.py#L1597)
-    * [`cbapi` model protofuls](https://github.com/carbonblack/cbapi-python/blob/master/src/cbapi/response/sensor_events.py)
+    * [`cbapi` model protobufs](https://github.com/carbonblack/cbapi-python/blob/master/src/cbapi/response/sensor_events.py)
