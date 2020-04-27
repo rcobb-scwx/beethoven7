@@ -7,6 +7,7 @@
 |Hunting: Data Sources|DeTTECT - Data Source Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/DeTTECT/master?filepath=data-sources.ipynb)|
 |Hunting: Visibility|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/DeTTECT/master?filepath=visibility.ipynb)|
 |Hunting: Visibility|Mordor Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hunters-forge/mordor/master)|
+|Hunting: Detection|Sigma Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/sigma/master?filepath=notebooks%2Fsigmac.ipynb)|
 
 
 ## References
