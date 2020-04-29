@@ -8,7 +8,7 @@
 |Hunting: Visibility|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/DeTTECT/master?filepath=visibility.ipynb)|
 |Hunting: Visibility|Mordor Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hunters-forge/mordor/master)|
 |Hunting: Detection|Sigma Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/sigma/master?filepath=notebooks%2Fsigmac.ipynb)|
-|Managing a Threat Hunting Program|Example GitHub/GitLab Hunting Workflow Management System|[Link](https://github.com/th3y3ti/tahiti-wfms/projects/1)|
+|Managing a Threat Hunting Program|Example GitHub/GitLab Hunting Workflow Management System|[Link](https://github.com/th3y3ti/tahiti-wfms)|
 
 ## References
 * [Cb Response Developer Documentation](https://developer.carbonblack.com/reference/enterprise-response/)
