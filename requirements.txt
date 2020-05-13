@@ -1,4 +1,4 @@
-pyattck
+pyattck==1.0.4
 pandas
 openpyxl
 xlrd
